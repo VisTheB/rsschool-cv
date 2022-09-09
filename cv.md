@@ -42,3 +42,20 @@ if (minutes < 10){minutes = "0" + minutes;}
 }
 ```
 ****
+## Training projects:
+1. Travel: (HTML, CSS, JavaScript) https://rolling-scopes-school.github.io/vistheb-JSFEPRESCHOOL2022Q2/travel/
+2. Momentum (a little unfinished in some features) : (JavaScript) https://rolling-scopes-school.github.io/vistheb-JSFEPRESCHOOL2022Q2/momentum/
+3. Helper for the game "Eldritch Horror" : (Javascript and a little bit HTML, CSS) https://rolling-scopes-school.github.io/vistheb-JSFEPRESCHOOL2022Q2/codejam-eldritch/
+****
+## Education and courses:
+- incomplete secondary general education
+*
+- RS Schools Course «JavaScript/Front-end. Stage 0» 
+- RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+- JavaScript Manual on learnjavascript.ru (in progress)
+*
+- I learned the base at introductory courses from HTML academy, Yandex Practicum and on MDN articles
+****
+## Languages:
+- Russian - native
+- English - B2
